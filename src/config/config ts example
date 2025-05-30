@@ -1,0 +1,8 @@
+export const config = {
+  DEBUG: true,
+
+  BACKEND_URL: "",
+  FRONTEND_URL: ""
+}
+
+ //"http://192.168.135.164:5001",
